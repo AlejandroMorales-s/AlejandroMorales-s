@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @AlejandroMorales-s
+### Hi! I'm Alejandro Morales
+
 - 👀 I’m interested in improve my skills as a Software Developer
 - 🌱 I’m currently learning Web Development in LaunchX-InnovaccionVirtual
-- 💞️ I’m looking to collaborate on ...
 
-You can find me in 🌎:
+```js
+  const alejandro = {
+    pronouns = "he" | "him",
+    code = ["JavaScript","HTML","CSS","Python"]
+  }
+```
+
+You can find me 🌎:
 - Facebook: https://www.facebook.com/AlejandroMoralesEs/
 - Instagram: https://www.instagram.com/alejandrom0_0/
 - Email: alejandrom.am33@gmail.com
