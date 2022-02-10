@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 
 You can find me in 🌎:
-Facebook: https://www.facebook.com/AlejandroMoralesEs/
-Instagram: https://www.instagram.com/alejandrom0_0/
-Email: alejandrom.am33@gmail.com
-My portfolio: alejandromorales.netlify.app
+- Facebook: https://www.facebook.com/AlejandroMoralesEs/
+- Instagram: https://www.instagram.com/alejandrom0_0/
+- Email: alejandrom.am33@gmail.com
+- My portfolio: https://alejandromorales.netlify.app/
 
 
 <!---
