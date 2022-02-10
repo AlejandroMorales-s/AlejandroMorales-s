@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development in LaunchX-InnovaccionVirtual
 
 ```js
-  const alejandro = {
+  const Alejandro = {
     pronouns = 'he' | 'him',
     code = ['JavaScript','HTML','CSS','Python']
   }
