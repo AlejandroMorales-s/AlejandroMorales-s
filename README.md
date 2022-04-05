@@ -1,5 +1,5 @@
 ### Hi! I'm Alejandro Morales
-- 👀 I’m interested in improve my skills as a Software Developer
+- 👀 I’m interested in improve my skills as a Web Developer
 - 🌱 I’m currently learning Web Development in LaunchX-InnovaccionVirtual
 
 ```js
