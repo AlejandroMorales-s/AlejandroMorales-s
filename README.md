@@ -5,7 +5,7 @@
 ```js
   const Alejandro = {
     pronouns = 'he' | 'him',
-    code = ['JavaScript','HTML','CSS','Python', 'Angular', 'SASS']
+    code = ['JavaScript','HTML','CSS','Python', 'React', 'SASS']
   }
 ```
 
