@@ -12,7 +12,7 @@
 You can find me 🌎:
 - Facebook: https://www.facebook.com/AlejandroMoralesEs/
 - Instagram: https://www.instagram.com/alejandrom0_0/
-- Email: alejandrom.am33@gmail.com
+- Email: alejandromoralesdev1@gmail.com
 
 
 <!---
