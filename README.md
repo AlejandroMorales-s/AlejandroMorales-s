@@ -13,7 +13,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.facebook.com/AlejandroMoralesEs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro morales" height="30" width="40" /></a>
-<a href="https://instagram.com/alejandrom0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alejandrom0_0" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alejandro_m_e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alejandro_m_e" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
