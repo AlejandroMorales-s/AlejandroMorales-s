@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a React Developer, working to improve my skills every day. Actually I'm making the Front-End Engineer carrer path on codecademy!
+I am a React Developer, working to improve my skills every day. Actually I'm doing the Front-End Engineer carrer path on codecademy!
 
 
 ## 🌐 Socials:
