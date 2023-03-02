@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a React Developer, working to improve my skills every day. Actually I'm doing the Data Scientist: Natural Language Processing Specialist Career Path and Full-Stack Engineer Career Path at Codecademy!
+I am a React Developer, working to improve my skills every day. Actually I'm doing the **Data Scientist: Natural Language Processing Specialist Career Path** and **Full-Stack Engineer Career Path** at Codecademy!
 
 
 ## 🌐 Socials:
